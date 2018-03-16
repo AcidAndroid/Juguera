@@ -1,0 +1,59 @@
+$menu-background: aquamarine;
+$temporada-background: white;
+$recomendaciones-background:orange;
+$zero: 0;
+
+body{
+
+    margin: $zero;
+    nav{
+        background-color: $menu-background;
+    }
+
+    
+}
+
+.opciones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:auto;
+    width:100%;
+   background-color: $recomendaciones-background;
+}
+.titulo{
+    background-color: $menu-background !important;
+}
+.galeria{
+    // height:100px ;
+    background-color: $temporada-background;
+
+    .card-image{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img{       
+            @media screen and (max-width: 600px) {            
+                width: 70%;
+                
+            }
+        }
+    }
+    
+}
+.preparacion{
+    h6{
+        font-weight: bold;
+    }
+
+}
+#recomendaciones{
+    height:100px ;
+    background-color:$recomendaciones-background;
+    
+}
+

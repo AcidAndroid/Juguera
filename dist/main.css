@@ -1,0 +1,37 @@
+body {
+  margin: 0; }
+  body nav {
+    background-color: aquamarine; }
+
+.opciones {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: auto;
+  width: 100%;
+  background-color: orange; }
+
+.titulo {
+  background-color: aquamarine !important; }
+
+.galeria {
+  background-color: white; }
+  .galeria .card-image {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    @media screen and (max-width: 600px) {
+      .galeria .card-image img {
+        width: 70%; } }
+
+.preparacion h6 {
+  font-weight: bold; }
+
+#recomendaciones {
+  height: 100px;
+  background-color: orange; }
+
+/*# sourceMappingURL=main.css.map */
