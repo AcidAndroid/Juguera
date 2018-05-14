@@ -1,0 +1,52 @@
+{
+	"Frutas":[{
+	"Mes":"Enero"
+	,"Frutas":["Fresa", "Guayaba", "Limón", "Mandarina", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Tamarindo" , "Toronja", "Toronja", "Manzana"]
+	},
+	{
+	"Mes":"Febrero"
+	,"Frutas":["Fresa", "Guayaba", "Limón", "Mandarina", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Tamarindo" , "Toronja", "Guanábana", "Manzana"]
+	},
+	{
+	"Mes":"Marzo"
+	,"Frutas":["Fresa", "Limón", "Mango", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Sandía", "Tamarindo" , "Toronja", "Guanábana", "Manzana"]
+	},
+	{
+	"Mes":"Abril"
+	,"Frutas":["Fresa", "Guanábana", "Limón", "Mango", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Sandía", "Toronja" , "Tamarindo"]
+	},
+	{
+	"Mes":"Mayo"
+	,"Frutas":[ "Limón", "Mango", "Melón", "Papaya", "Pera", "Piña", "Plátano" , "Sandía"]
+	},
+	{
+	"Mes":"Junio"
+	,"Frutas":["Limón", "Mango", "Melón", "Papaya", "Pera", "Piña", "Plátano","Sandía"]
+	},
+	{
+	"Mes":"Julio"
+	,"Frutas":["Limón", "Mango", "Melón", "Papaya", "Pera", "Piña", "Plátano", "Sandía" , "Tuna"]
+	},
+	{
+	"Mes":"Agosto"
+	,"Frutas":["Guayaba", "Limón", "Mango", "Melón", "Papaya", "Pera", "Plátano", "Sandía" ,"Tuna"]
+	},
+	{
+	"Mes":"Septiembre"
+	,"Frutas":["Guayaba", "Toronja", "Limón", "Mango", "Melón", "Papaya", "Pera", "Plátano", "Sandía", "Toronja" ,"Tuna"]
+	},
+	{
+	"Mes":"Octubre"
+	,"Frutas":["Guayaba", "Toronja", "Limón", "Mandarina", "Naranja", "Papaya", "Pera", "Plátano" , "Toronja", "Manzana"]
+	},
+	{
+	"Mes":"Noviembre"
+	,"Frutas":["Guayaba", "Toronja", "Limón", "Mandarina", "Naranja", "Plátano" ,"Toronja", "Manzana"]
+	},
+	{
+	"Mes":"Diciembre"
+	,"Frutas":["Fresa", "Guayaba", "Toronja", "Limón", "Mandarina", "Naranja", "Papaya", "Pera", "Piña", "Plátano", "Tamarindo" ,"Toronja", "Manzana"]
+	}
+		
+	]
+}

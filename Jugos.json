@@ -1,0 +1,149 @@
+{
+    "Jugos":[
+        {
+            "Id":1
+            ,"Nombre":"JUGO DE PEPINO, LIMÓN Y ALBAHACA"
+            ,"Ingredientes" :["6 pepinos","3 limones sin semilla, en mitades","4 ramitas de albahaca"]
+            ,"Instrucciones":["Coloca los pepinos en la juguera y procesa","Agrega los limones y dos ramitas de albahaca y procesa.","Sirve en un vaso con hielos y decora con más albahaca fresca."]
+        },
+        {
+            "Id":2
+            ,"Nombre":"JUGO DE PAPAYA, TORONJA Y NOPAL"
+            ,"Ingredientes" :["piña","papaya","1 toronja sin cáscara","1 rama de apio","nopal"]
+            ,"Instrucciones":["Licúa todos los ingredientes","sirve"]
+        },
+        {
+            "Id":3
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":4
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":5
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":6
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":7
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":8
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":9
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":10
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":11
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":12
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":13
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":14
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":15
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":16
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":17
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":18
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":19
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":20
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":21
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":22
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":23
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        },
+        {
+            "Id":24
+            ,"Nombre":""
+            ,"Ingredientes" :[]
+            ,"Instrucciones":[]
+        }
+    ]
+    
+}
