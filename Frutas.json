@@ -1,51 +1,51 @@
 {
 	"Frutas":[{
 	"Mes":"Enero"
-	,"Frutas":["Fresa", "Guayaba", "Limón", "Mandarina", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Tamarindo" , "Toronja", "Toronja", "Manzana"]
+	,"Frutas":[{"Fruta":"Fresa","Imagen":"./fresa.jpg"}, {"Fruta":"Guayaba","Imagen":"./guayaba.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mandarina","Imagen":"./mandarina.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Naranja","Imagen":"./naranja.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Tamarindo","Imagen":"./tamarindo.jpg"} , {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Manzana","Imagen":"./manzana.jpg"}]
 	},
 	{
 	"Mes":"Febrero"
-	,"Frutas":["Fresa", "Guayaba", "Limón", "Mandarina", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Tamarindo" , "Toronja", "Guanábana", "Manzana"]
+	,"Frutas":[{"Fruta":"Fresa","Imagen":"./fresa.jpg"}, {"Fruta":"Guayaba","Imagen":"./guayaba.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mandarina","Imagen":"./mandarina.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Naranja","Imagen":"./naranja.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Tamarindo","Imagen":"./tamarindo.jpg"} , {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Guanábana","Imagen":"./guanabana.jpg"}, {"Fruta":"Manzana","Imagen":"./manzana.jpg"}]
 	},
 	{
 	"Mes":"Marzo"
-	,"Frutas":["Fresa", "Limón", "Mango", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Sandía", "Tamarindo" , "Toronja", "Guanábana", "Manzana"]
+	,"Frutas":[{"Fruta":"Fresa","Imagen":"./fresa.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mango","Imagen":"./mango.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Naranja","Imagen":"./naranja.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Sandía","Imagen":"./sandia.jpg"}, {"Fruta":"Tamarindo","Imagen":"./tamarindo.jpg"} , {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Guanábana","Imagen":"./guanabana.jpg"}, {"Fruta":"Manzana","Imagen":"./manzana.jpg"}]
 	},
 	{
 	"Mes":"Abril"
-	,"Frutas":["Fresa", "Guanábana", "Limón", "Mango", "Melón", "Naranja", "Papaya", "Piña", "Plátano", "Sandía", "Toronja" , "Tamarindo"]
+	,"Frutas":[{"Fruta":"Fresa","Imagen":"./fresa.jpg"}, {"Fruta":"Guanábana","Imagen":"./guanabana.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mango","Imagen":"./mango.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Naranja","Imagen":"./naranja.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Sandía","Imagen":"./sandia.jpg"}, {"Fruta":"Toronja","Imagen":"./toronja.jpg"} , {"Fruta":"Tamarindo","Imagen":"./tamarindo.jpg"}]
 	},
 	{
 	"Mes":"Mayo"
-	,"Frutas":[ "Limón", "Mango", "Melón", "Papaya", "Pera", "Piña", "Plátano" , "Sandía"]
+	,"Frutas":[ {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mango","Imagen":"./mango.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Pera","Imagen":"./pera.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"} , {"Fruta":"Sandía","Imagen":"./sandia.jpg"}]
 	},
 	{
 	"Mes":"Junio"
-	,"Frutas":["Limón", "Mango", "Melón", "Papaya", "Pera", "Piña", "Plátano","Sandía"]
+	,"Frutas":[{"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mango","Imagen":"./mango.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Pera","Imagen":"./pera.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"},{"Fruta":"Sandía","Imagen":"./sandia.jpg"},{"Fruta":"Uva","Imagen":"./uva.jpg"}]
 	},
 	{
 	"Mes":"Julio"
-	,"Frutas":["Limón", "Mango", "Melón", "Papaya", "Pera", "Piña", "Plátano", "Sandía" , "Tuna"]
+	,"Frutas":[{"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mango","Imagen":"./mango.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Pera","Imagen":"./pera.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Sandía","Imagen":"./sandia.jpg"} , {"Fruta":"Tuna","Imagen":"./tuna.jpg"},{"Fruta":"Uva","Imagen":"./uva.jpg"}]
 	},
 	{
 	"Mes":"Agosto"
-	,"Frutas":["Guayaba", "Limón", "Mango", "Melón", "Papaya", "Pera", "Plátano", "Sandía" ,"Tuna"]
+	,"Frutas":[{"Fruta":"Guayaba","Imagen":"./guayaba.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mango","Imagen":"./mango.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Pera","Imagen":"./pera.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Sandía","Imagen":"./sandia.jpg"} ,{"Fruta":"Tuna","Imagen":"./tuna.jpg"},{"Fruta":"Uva","Imagen":"./uva.jpg"}]
 	},
 	{
 	"Mes":"Septiembre"
-	,"Frutas":["Guayaba", "Toronja", "Limón", "Mango", "Melón", "Papaya", "Pera", "Plátano", "Sandía", "Toronja" ,"Tuna"]
+	,"Frutas":[{"Fruta":"Guayaba","Imagen":"./guayaba.jpg"}, {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mango","Imagen":"./mango.jpg"}, {"Fruta":"Melón","Imagen":"./melon.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Pera","Imagen":"./pera.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Sandía","Imagen":"./sandia.jpg"}, {"Fruta":"Toronja","Imagen":"./toronja.jpg"} ,{"Fruta":"Tuna","Imagen":"./tuna.jpg"}]
 	},
 	{
 	"Mes":"Octubre"
-	,"Frutas":["Guayaba", "Toronja", "Limón", "Mandarina", "Naranja", "Papaya", "Pera", "Plátano" , "Toronja", "Manzana"]
+	,"Frutas":[{"Fruta":"Guayaba","Imagen":"./guayaba.jpg"}, {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mandarina","Imagen":"./mandarina.jpg"}, {"Fruta":"Naranja","Imagen":"./naranja.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Pera","Imagen":"./pera.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"} , {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Manzana","Imagen":"./manzana.jpg"}]
 	},
 	{
 	"Mes":"Noviembre"
-	,"Frutas":["Guayaba", "Toronja", "Limón", "Mandarina", "Naranja", "Plátano" ,"Toronja", "Manzana"]
+	,"Frutas":[{"Fruta":"Guayaba","Imagen":"./guayaba.jpg"}, {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mandarina","Imagen":"./mandarina.jpg"}, {"Fruta":"Naranja","Imagen":"./naranja.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"} ,{"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Manzana","Imagen":"./manzana.jpg"},{"Fruta":"Uva","Imagen":"./uva.jpg"}]
 	},
 	{
 	"Mes":"Diciembre"
-	,"Frutas":["Fresa", "Guayaba", "Toronja", "Limón", "Mandarina", "Naranja", "Papaya", "Pera", "Piña", "Plátano", "Tamarindo" ,"Toronja", "Manzana"]
+	,"Frutas":[{"Fruta":"Fresa","Imagen":"./fresa.jpg"}, {"Fruta":"Guayaba","Imagen":"./guayaba.jpg"}, {"Fruta":"Toronja","Imagen":"./toronja.jpg"}, {"Fruta":"Limón","Imagen":"./limon.jpg"}, {"Fruta":"Mandarina","Imagen":"./mandarina.jpg"}, {"Fruta":"Naranja","Imagen":"./naranja.jpg"}, {"Fruta":"Papaya","Imagen":"./papaya.jpg"}, {"Fruta":"Pera","Imagen":"./pera.jpg"}, {"Fruta":"Piña","Imagen":"./piña.jpg"}, {"Fruta":"Plátano","Imagen":"./platano.jpg"}, {"Fruta":"Tamarindo","Imagen":"./tamarindo.jpg"} , {"Fruta":"Manzana","Imagen":"./manzana.jpg"},{"Fruta":"Uva","Imagen":"./uva.jpg"}]
 	}
 		
 	]
