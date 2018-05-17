@@ -11,7 +11,14 @@ class Frutas extends PureComponent {
           frutas: [],
         };
       }
+
+
+      handleClick = (event) => {
+        console.log(event.target)
+        
+      }
     render() {
+        
         const Meses =["Enero","Febrero","Marzo","Abril","Mayo"
                     ,"Junio","Julio","Agosoto","Septiembre","Octubre"
                     ,"Noviembre","Diciembre"]
@@ -28,19 +35,19 @@ class Frutas extends PureComponent {
             }
             
         })[0].Frutas
-        console.log(frutasTemporada);
+        //console.log(frutasTemporada);
 
 
-        imgFrutas=frutasTemporada.map((fruta)=>{                    
-            return <div key={fruta.Fruta}>
-                <img src={require(`${fruta.Imagen.toLowerCase()}`)} alt={fruta.Fruta}/>
+        imgFrutas=frutasTemporada.map((fruta)=>{                             
+            return <div key={fruta.Fruta} id={`Id${fruta.Fruta}`} onClick={this.handleClick}>
+                <img src={fruta.Imagen}  alt={fruta.Fruta}/>
             </div>
         })
 
-        console.log(imgFrutas);
+        //console.log(imgFrutas);
 
         return (
-            <div>
+            <div id="Frutas-Temporada">
                 {imgFrutas}                
             </div>
         );

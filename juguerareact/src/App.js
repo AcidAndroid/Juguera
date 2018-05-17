@@ -5,6 +5,8 @@ import HomeView from './views/homeview';
 // import BrowserRouter from 'react-router-dom'
 import Cargando from './views/cargando';
 import Frutas from './containers/Frutas';
+import Jugos from "./Jugos.json";
+import BuscarJugo from './containers/BuscarJugo';
 
 class App extends Component {
 
@@ -21,8 +23,9 @@ class App extends Component {
       //   </p>
       // </div>
       <React.Fragment>
-        <HomeView/> 
+        {/* <HomeView/>  */}
         <Frutas/>
+        <BuscarJugo jugos={Jugos} fruta={'Mango'} ></BuscarJugo>
       </React.Fragment>
       
       
