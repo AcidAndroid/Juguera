@@ -19,13 +19,29 @@ class Frutas extends PureComponent {
         let mesNum = fecha.getMonth()
         //Obtiene el mes actual para saber que frutas buscar
         let mes = Meses[mesNum]                    
+        let frutasTemporada
+        let imgFrutas
+        //obtiene las frutas de la temporada
+        frutasTemporada= data.Frutas.filter((Mes)=>{
+            if (Mes.Mes===mes){
+                return true
+            }
+            
+        })[0].Frutas
+        console.log(frutasTemporada);
+
+
+        imgFrutas=frutasTemporada.map((fruta)=>{                    
+            return <div key={fruta.Fruta}>
+                <img src={require(`${fruta.Imagen.toLowerCase()}`)} alt={fruta.Fruta}/>
+            </div>
+        })
+
+        console.log(imgFrutas);
+
         return (
             <div>
-                {/* obtiene el mes */}
-                {
-                    console.log(data.Frutas)
-                    
-            }
+                {imgFrutas}                
             </div>
         );
     }
