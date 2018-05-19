@@ -1,11 +1,13 @@
 import React from "react";
+import Image from "./image"
 
-const HomeView = () => {
+const HomeView = (props) => {
 return(
-    <React.Fragment>
-        <h2>Juguera.</h2>
-        <img src= {require('../images/juguera1.png')} alt="¡Juguera!" />        
-        <h4>Recomendaciones de jugos con la fruta mas fresca de la estación..</h4>
+    <React.Fragment>        
+        {/* <img src= {require('../images/juguera1.png')} alt="¡Juguera!" />                 */}
+        <Image imagen={props.imagenPortada} titulo={'Juguera.'}
+            info={'Recomendaciones de jugos con la fruta mas fresca de la estación.'}
+        />
     </React.Fragment>
     )
 }
