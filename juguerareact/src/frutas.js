@@ -1,21 +1,21 @@
-import fresa from '../images/imagenesfrutas/fresa.jpg'
-import guayaba from '../images/imagenesfrutas/guayaba.jpg'
-import limon from '../images/imagenesfrutas/limon.jpg'
-import mandarina from '../images/imagenesfrutas/mandarina.jpg'
-import melon from '../images/imagenesfrutas/melon.jpg'
-import naranja from '../images/imagenesfrutas/naranja.jpg'
-import papaya from '../images/imagenesfrutas/papaya.jpg'
-import piña from '../images/imagenesfrutas/piña.jpg'
-import manzana from '../images/imagenesfrutas/manzana.jpg'
-import toronja from '../images/imagenesfrutas/toronja.jpg'
-import mango from '../images/imagenesfrutas/mango.jpg'
-import tuna from '../images/imagenesfrutas/tuna.jpg'
-import uva from '../images/imagenesfrutas/uva.jpg'
-import sandia from '../images/imagenesfrutas/sandia.jpg'
-import platano from '../images/imagenesfrutas/platano.jpg'
-import tamarindo from '../images/imagenesfrutas/tamarindo.jpg'
-import guanabana from '../images/imagenesfrutas/guanabana.jpg'
-import pera from '../images/imagenesfrutas/pera.jpg'
+import fresa from './images/imagenesfrutas/fresa.jpg'
+import guayaba from './images/imagenesfrutas/guayaba.jpg'
+import limon from './images/imagenesfrutas/limon.jpg'
+import mandarina from './images/imagenesfrutas/mandarina.jpg'
+import melon from './images/imagenesfrutas/melon.jpg'
+import naranja from './images/imagenesfrutas/naranja.jpg'
+import papaya from './images/imagenesfrutas/papaya.jpg'
+import piña from './images/imagenesfrutas/piña.jpg'
+import manzana from './images/imagenesfrutas/manzana.jpg'
+import toronja from './images/imagenesfrutas/toronja.jpg'
+import mango from './images/imagenesfrutas/mango.jpg'
+import tuna from './images/imagenesfrutas/tuna.png'
+import uva from './images/imagenesfrutas/uva.jpg'
+import sandia from './images/imagenesfrutas/sandia.jpg'
+import platano from './images/imagenesfrutas/platano.jpg'
+import tamarindo from './images/imagenesfrutas/tamarindo.jpg'
+import guanabana from './images/imagenesfrutas/guanabana.jpg'
+import pera from './images/imagenesfrutas/pera.jpg'
 
 
 
@@ -23,7 +23,7 @@ const frutas =
 {
 	"Frutas":[{
 	"Mes":"Enero"
-/	,"Frutas":[{"Fruta":"Fresa","Imagen":fresa}, {"Fruta":"Guayaba","Imagen":guayaba}, {"Fruta":"Limón","Imagen":limon}, {"Fruta":"Mandarina","Imagen":mandarina}, {"Fruta":"Melón","Imagen":melon}, {"Fruta":"Naranja","Imagen":naranja}, {"Fruta":"Papaya","Imagen":papaya}, {"Fruta":"Piña","Imagen":piña}, {"Fruta":"Plátano","Imagen":platano}, {"Fruta":"Tamarindo","Imagen":tamarindo} , {"Fruta":"Toronja","Imagen":toronja}, {"Fruta":"Manzana","Imagen":manzana}]
+	,"Frutas":[{"Fruta":"Fresa","Imagen":fresa}, {"Fruta":"Guayaba","Imagen":guayaba}, {"Fruta":"Limón","Imagen":limon}, {"Fruta":"Mandarina","Imagen":mandarina}, {"Fruta":"Melón","Imagen":melon}, {"Fruta":"Naranja","Imagen":naranja}, {"Fruta":"Papaya","Imagen":papaya}, {"Fruta":"Piña","Imagen":piña}, {"Fruta":"Plátano","Imagen":platano}, {"Fruta":"Tamarindo","Imagen":tamarindo} , {"Fruta":"Toronja","Imagen":toronja}, {"Fruta":"Manzana","Imagen":manzana}]
 	},
 	{
 	"Mes":"Febrero"
