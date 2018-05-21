@@ -3,8 +3,8 @@ import Imagen from './image'
 export default (props) => {
     return (
         <div>
-            <Image imagen={props.fotoFruta} 
-                    titulo={props.nombreFruta } ></Image>
+            <Imagen imagen={props.fotoFruta} 
+                    titulo={props.nombreFruta } ></Imagen>
         </div>
     )
 }

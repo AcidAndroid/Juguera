@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import frutas  from '../frutas';
 import Grid from '@material-ui/core/Grid'
+import Fruta from '../views/Fruta'
+
 
 export default class FrutasList extends Component {
     constructor(props) {
@@ -35,7 +37,11 @@ export default class FrutasList extends Component {
 
         <h1>Estas son las frutas mas frescas para el mes de {this.state.mesActual}</h1><br/>
         {this.state.frutasTemporada.map((fruta)=>{
-            return <Grid item xs={4}><img style={{ height: '100%', width: '100%'}} src={fruta.Imagen}  alt={fruta.Fruta}/></Grid>
+            return <Grid item xs={4}>
+            <Fruta fotoFruta={fruta.Imagen} nombreFruta={fruta.Fruta} ></Fruta>
+            {/* <img style={{ height: '100%', width: '100%'}} src={fruta.Imagen}  alt={fruta.Fruta}/> */}
+            
+            </Grid>
         })
         }
       </Grid>
