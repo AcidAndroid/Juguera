@@ -31,14 +31,18 @@ export default class FrutasList extends Component {
     return tmpFrutas
   }
 
+  handleClick(target){
+    alert('');
+  }
   render() {
     return (
       <Grid container>
 
         <h1>Estas son las frutas mas frescas para el mes de {this.state.mesActual}</h1><br/>
         {this.state.frutasTemporada.map((fruta)=>{
+          const stilo ={height: 0,paddingTop: '56.25%'}
             return <Grid item xs={4}>
-            <Fruta fotoFruta={fruta.Imagen} nombreFruta={fruta.Fruta} ></Fruta>
+            <Fruta fotoFruta={fruta.Imagen} nombreFruta={fruta.Fruta}  styleCard={stilo} onClick={this.handleClick} ></Fruta>
             {/* <img style={{ height: '100%', width: '100%'}} src={fruta.Imagen}  alt={fruta.Fruta}/> */}
             
             </Grid>

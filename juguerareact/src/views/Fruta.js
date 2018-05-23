@@ -4,7 +4,10 @@ export default (props) => {
     return (
         <div>
             <Imagen imagen={props.fotoFruta} 
-                    titulo={props.nombreFruta } ></Imagen>
+                    titulo={props.nombreFruta}
+                    classNameCard={props.classNameCard}
+                    styleCard={props.styleCard}                     
+                    ></Imagen>
         </div>
     )
 }
